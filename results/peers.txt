@@ -1,0 +1,7 @@
+                                       yr2 chg 2016-21 avg | 2022 2023 2024 yr2 | first->latest AY16-21 | back-test from end-2022: indicated vs actual, % of carried AY16-21
+James River (E&S ex-auto)                -8.4 | -13.8 -10.5  -4.1 |   9.5  10.0   8.3  10.7  23.6   5.7 |   5.6 vs  22.1
+Kinsale (casualty occurrence)            -7.1 |  -0.5   0.0  -0.3 |   6.6  14.9  19.8  10.6  -7.8   2.9 |  11.9 vs  10.1
+RLI (casualty primary occurrence)        -7.1 |  -6.7  -3.3  -4.9 | -24.4 -22.2 -15.8 -22.2 -22.5 -12.8 |  -9.3 vs  -0.4
+Skyward (multi-line solutions)            2.1 |   2.2   0.0  -5.0 |  34.6  22.2  -2.0   2.9  18.8   0.6 |  10.7 vs   0.1
+Bowhead (casualty)                       -4.3 |   5.1   5.1   1.3 |  19.5 |   nan vs   nan
+Markel (insurance segment, all lines)    -4.6 |  -7.7 -11.3 -13.1 |  -9.6  -7.5   0.8  -2.2  -9.3  -9.2 |  -0.6 vs   2.7

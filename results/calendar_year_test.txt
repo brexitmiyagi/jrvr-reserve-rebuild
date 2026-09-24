@@ -1,0 +1,19 @@
+CY  n  S  L
+2017 3 1 2
+2018 4 0 4
+2019 5 5 0
+2020 6 6 0
+2021 4 3 1
+2022 7 2 5
+2023 8 8 0
+2024 9 2 7
+2025 8 0 8
+Mack CY test: Z=6, E[Z]=18.36, 95% band [14.00, 22.72] -> CALENDAR-YEAR EFFECT
+reported emergence of remaining development on AY2016-23, share by CY: {2026: 30.1, 2027: 22.6, 2028: 16.6, 2029: 11.5, 2030: 8.0, 2031: 5.6, 2032: 3.8, 2033: 1.9}
+ cumulative through 2026 30.1
+ cumulative through 2027 52.7
+ cumulative through 2028 69.2
+ cumulative through 2029 80.7
+PAID (AY2013-2025): Z=11 E=22.11 band [17.34,26.89] CY EFFECT diagonals(S,L) [(2015, 0, 2), (2016, 3, 0), (2017, 0, 4), (2018, 2, 2), (2019, 4, 2), (2020, 7, 0), (2021, 8, 0), (2022, 2, 7), (2023, 4, 3), (2024, 2, 5), (2025, 0, 8)]
+REPORTED: Z=6 E=18.36 band [14.00,22.72] CY EFFECT diagonals(S,L) [(2017, 1, 2), (2018, 0, 4), (2019, 5, 0), (2020, 6, 0), (2021, 3, 1), (2022, 2, 5), (2023, 8, 0), (2024, 2, 7), (2025, 0, 8)]
+reported CL, 3% tail, net of H1 23.6: all CYs 105.8 | last two CYs (2024-25) only 228.4 | excluding 2024-25 19.5 | last three CYs 156.9

@@ -1,0 +1,29 @@
+CY2024: paid on AY2016-2023 262.3 / opening outstanding 1039.6 = 25.2%
+CY2025: paid on AY2016-2023 281.0 / opening outstanding 885.3 = 31.7%
+SN recoveries needed 313.2 = 0.85*307.1 + 52.2 = 313.2 -> gross paid above retention 368.5
+base (constant 31.7% payout rate, falling reserve)   ret0 165.5: unlock ~2029.17
+base (constant 31.7% payout rate, falling reserve)   ret0 176.0: unlock ~2029.33
+base (constant 31.7% payout rate, falling reserve)   ret0 186.3: unlock ~2029.42
++20% pace                                            ret0 165.5: unlock ~2028.42
++20% pace                                            ret0 176.0: unlock ~2028.50
++20% pace                                            ret0 186.3: unlock ~2028.58
+-20% pace                                            ret0 165.5: unlock ~2030.75
+-20% pace                                            ret0 176.0: unlock ~2031.00
+-20% pace                                            ret0 186.3: unlock ~2031.17
+flat dollars at 2025 level 281/yr                    ret0 165.5: unlock ~2027.92
+flat dollars at 2025 level 281/yr                    ret0 176.0: unlock ~2028.00
+flat dollars at 2025 level 281/yr                    ret0 186.3: unlock ~2028.00
+unlock with payments scaled for reported mid (1.000): ~2029.33
+unlock with payments scaled for paid median (1.170): ~2028.58
+unlock with payments scaled for paid P75 (1.215): ~2028.50
+
+holdco cash need ~32.1/yr
+Base     JRIC unassigned (earned) surplus YE26/27/28 after funding holdco: [158.2, 141.6, 133.2]
+         ... before any further dividends: [160.4, 175.8, 199.6]
+Bear     JRIC unassigned (earned) surplus YE26/27/28 after funding holdco: [130.7, 80.4, 51.4]
+         ... before any further dividends: [132.8, 114.6, 117.7]
+Distress JRIC unassigned (earned) surplus YE26/27/28 after funding holdco: [121.5, 59.1, 21.8]
+         ... before any further dividends: [123.7, 93.3, 88.1]
+
+2026 cap: max(10% x 522.9 = 52.3, 2025 NI 69.4) = 69.4; 2025 NI ex retro gain = 26.2 -> cap would be 52.3
+special surplus change 2025 34.4 vs retro gain 43.2: gap 8.8 ; 43.2*0.79 = 34.1

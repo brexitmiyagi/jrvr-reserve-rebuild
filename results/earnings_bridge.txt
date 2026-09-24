@@ -1,0 +1,14 @@
+E&S NEP 2026E ~ 537.0 ; 2027E 500.0 (-7%, NWP running -5.5% H1 / -11.4% Q2)
+E&S CR 92.0% -> UW  40.0 -> adjusted NOI  42.8  (diluted ~$0.84)
+E&S CR 92.8% -> UW  36.0 -> adjusted NOI  39.6  (diluted ~$0.79)
+E&S CR 93.2% -> UW  34.0 -> adjusted NOI  38.0  (diluted ~$0.76)
+E&S CR 94.0% -> UW  30.0 -> adjusted NOI  34.9  (diluted ~$0.71)
+E&S CR 94.7% -> UW  26.5 -> adjusted NOI  32.1  (diluted ~$0.66)
+E&S CR 95.5% -> UW  22.5 -> adjusted NOI  28.9  (diluted ~$0.61)
+E&S CR 96.0% -> UW  20.0 -> adjusted NOI  27.0  (diluted ~$0.58)
+NOI 38.0 needs E&S CR 93.2%
+NOI 32.0 needs E&S CR 94.7%
+NOI 27.0 needs E&S CR 96.0%
+H1 2026 E&S CR 94.6% incl reinstatement; underlying AY LR 64.8 + expense 28.0 = 92.8 ex development
+rate ~3% vs trend ~8%: loss-ratio drift (1.08/1.03-1)*64.8 = 3.1 pts/yr if fully unpriced
+Consensus 2027 adj EPS $0.68 (Nasdaq, 2 est) -> implied NOI ~ 33.2

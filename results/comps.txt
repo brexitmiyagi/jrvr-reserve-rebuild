@@ -1,0 +1,9 @@
+P/TBV = 0.031 + 0.1271 x ROE%  (n=8, r2=0.80)
+  ROE 4.93% -> P/TBV 0.66
+  ROE 8% -> P/TBV 1.05
+  ROE 10% -> P/TBV 1.30
+  ROE 12% -> P/TBV 1.56
+ex-SKWD: -0.087 + 0.1269 x ROE; ROE10 -> 1.18; ROE5 -> 0.54
+P/B(finviz) = -0.194+0.1267xROE ; ROE10 -> 1.07; ROE5 -> 0.43
+JRVR now: price/TCE ex-gain 0.54  price/econ book 0.45
+Base $5.21 / YE27 econ book 8.01 = 0.65

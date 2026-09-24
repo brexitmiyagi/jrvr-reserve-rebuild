@@ -1,0 +1,4 @@
+reported 3%: old-book shortfall mean (net of H1 23.6)  105.8; SE  45.9; P50  103.9 P75  135.6 P90  165.6 P95  184.3; prob shortfall>96: 0.57
+reported 5%: old-book shortfall mean (net of H1 23.6)  147.6; SE  46.8; P50  145.8 P75  178.1 P90  208.6 P95  227.5; prob shortfall>96: 0.87
+paid 7%: old-book shortfall mean (net of H1 23.6)  268.5; SE  58.0; P50  266.8 P75  306.5 P90  343.7 P95  366.6; prob shortfall>96: 1.00
+ODP bootstrap paid (7 pct tail), old book shortfall net of H1: mean 270.9 P50 269.2 P75 308.4 P90 342.5 P95 363.5; P(<96) 0.00

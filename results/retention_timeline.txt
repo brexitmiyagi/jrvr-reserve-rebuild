@@ -1,0 +1,12 @@
+Paid since 1 Jan 2024 to YE2025: path A 551.0, path B 551.1; scaled to subject perimeter 530.3-530.4
+Retention left at YE2025: 165.5 to 186.3
+2025 payout as % of opening old-book outstanding 31.7%; 2026 implied paid 225.0/yr = 18.7/month
+Retention left at 30 Jun 2026: 53.0 to 73.8; months to cross 2.8 to 3.9
+ADC gain per $ recovered 0.211; Top Up 0.296
+TCE ex-DG 308.865 ($6.68); DG after tax 85.19 ($1.84); economic book 394.06 ($8.52)
+market cap 166.0; implied after-tax shortfall vs economic book 228.1 ($4.93); pre-tax 288.7
+rep3 book after $6.71, price/book 0.53x
+rep5 book after $6.00, price/book 0.60x
+paid7 book after $3.93, price/book 0.91x
+paid10 book after $2.83, price/book 1.27x
+Cushion gain from full $106.0 release: 62.8

@@ -1,0 +1,24 @@
+2026: State National pays   41.6, Enstar   0.0, gain released   8.8
+2027: State National pays  143.7, Enstar   0.0, gain released  30.3
+2028: State National pays  106.2, Enstar   0.0, gain released  22.4
+2029: State National pays   80.8, Enstar   0.0, gain released  17.0
+2030: State National pays   24.7, Enstar  42.9, gain released  17.9
+PV of after-tax gain at 10%: 60.2 (nominal 83.8); per share 1.30
+PV of after-tax gain at 12%: 57.7 (nominal 83.8); per share 1.25
+Economic book today with discounted gain: 369.2 = $7.99/sh (undiscounted $8.52)
+
+Bull     p=0.20 GAAP NI 26H2/27/28 [15.1, 43.3, 37.5] | min cushion  75.8 | YE27 econ BV/sh  8.73 | ROE 7.9% | 0.80x | value $6.99
+Base     p=0.40 GAAP NI 26H2/27/28 [-4.1, 20.9, 24.7] | min cushion  70.8 | YE27 econ BV/sh  7.84 | ROE 8.8% | 0.65x | value $5.09
+Bear     p=0.25 GAAP NI 26H2/27/28 [-40.5, -23.1, -1.8] | min cushion   5.8 | YE27 econ BV/sh  5.40 | ROE 8.5% | 0.45x | value $2.43
+Distress p=0.15 GAAP NI 26H2/27/28 [-52.4, -38.4, -11.8] | min cushion -31.4 | YE27 econ BV/sh  4.48 | ROE 7.1% | 0.35x | value $1.57
+
+Probability-weighted value (YE2027 basis): $4.28 vs $3.59 (+19%)
+Probability of ending below price: 40%; average value in those cases $2.11
+base multiple 0.55: weighted $3.96
+base multiple 0.65: weighted $4.28
+base multiple 0.75: weighted $4.59
+Market multiple on discounted economic book today: 0.45x
+Pre-tax retained charge that uses the whole cushion at once: 95.9
+Takeout: cap old book at P90 165.6 for 55% of limit -> after-tax cost 72.0; adjusted book 317.9 ($6.87); at 0.8x-1.0x $5.50-$6.87
+Takeout: cap old book at P90 165.6 for 70% of limit -> after-tax cost 91.6; adjusted book 298.3 ($6.45); at 0.8x-1.0x $5.16-$6.45
+Cash a buyer must fund at close: pref put 112.5 + accrued, revolver 210.8 (change of control), senior debentures 15.0; junior sub 104.1 can stay

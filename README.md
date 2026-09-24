@@ -10,12 +10,12 @@ Not investment advice. I have no position in JRVR.
 
 ## Running it
 
-Python 3.10 or later, plus numpy.
+Python 3.10 or later, plus numpy and scipy.
 
-    pip install numpy
+    pip install -r requirements.txt
     python3 scripts/backtest_reported.py
 
-The scripts find their inputs in their own folder, so you can run them from anywhere. My outputs from 24 Sep 2026 are in results/. Yours should match line for line.
+The scripts find their inputs in their own folder, so you can run them from anywhere. My outputs from 24 Sep 2026 are in results/. Yours should match line for line. I ran it on Python 3.10.12, numpy 2.2.6 and scipy 1.15.3.
 
 ## What each script does
 
@@ -51,6 +51,10 @@ The same inputs are in data/ as CSV if you'd rather use a spreadsheet.
 ## Things to be careful with
 
 The reported triangle depends on how the company sets case reserves, and both triangles fail the calendar-year test, so read the output as a range. Figures are as printed in each year's filing and later filings sometimes restate a year slightly. The covenant numbers are my reconstruction from public filings, and the credit agreement's own definitions could differ. Payout pace, the 75% share, the earnings path and the scenario weights are my calls. They're written out at the top of the scripts that use them.
+
+## License
+
+The code is MIT licensed, see LICENSE. The data is transcribed from public filings, so use it however you like. Just credit the filings and link back here.
 
 ## Corrections
 
